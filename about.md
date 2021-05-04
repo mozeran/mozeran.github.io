@@ -17,6 +17,9 @@ Read the white paper.
 *The following links should be menu items nested underneath About.*
 
 [Project Staff](/staff)
+
 [Fellows](/fellows)
+
 [Projects](/projects)
+
 [Documentation](/documentation)
